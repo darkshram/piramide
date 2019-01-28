@@ -9,7 +9,7 @@ https://pixabay.com/es/mexico-ruina-maya-cultura-853048/
 
 This theme requires plymouth-plugin-script.
 
-``
+```
 pkcon install plymouth-plugin-script
 
 git clone https://github.com/darkshram/piramide/
@@ -21,4 +21,4 @@ plymouth-set-default-theme piramide
 dracut -f
 
 reboot
-``
+```
