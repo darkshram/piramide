@@ -1,5 +1,5 @@
 # Plymouth Piramide Theme.
-Plymouth theme with a photo of a Palanque Piramid.
+Plymouth theme with a photo of a Palanque Piramid. It includes the logo of ALDOS Linux.
 
 Photo the main piramid of Palenque, Mexico, by Peter Vandecaveye, available is under Public Domain and was taken from
 
