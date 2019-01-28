@@ -7,10 +7,15 @@ https://pixabay.com/es/mexico-ruina-maya-cultura-853048/
 
 # Installation.
 
-This theme requires plymouth-plugin-script.
+This theme requires plymouth-plugin-script. Please install it first with **pkcon** (works in any distro) yum (CentOS7/RHEL7), dnf (Fedora) or apt-get (Debian, Devuan, Ubuntu, Linuxmint, etc.).
 
 ```
 pkcon install plymouth-plugin-script
+```
+
+Next download and install theme.
+
+```
 
 git clone https://github.com/darkshram/piramide/
 
