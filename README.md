@@ -11,9 +11,14 @@ This theme requires plymouth-plugin-script.
 
 ``
 pkcon install plymouth-plugin-script
+
 git clone https://github.com/darkshram/piramide/
+
 sudo cp -a piramide /usr/share/plymouth/themes/
+
 plymouth-set-default-theme piramide
+
 dracut -f
+
 reboot
 ``
