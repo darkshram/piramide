@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Gato Negro
+Description=Gato Negro
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/piramide
+ScriptFile=/usr/share/plymouth/themes/piramide/piramide.script
