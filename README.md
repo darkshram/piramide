@@ -16,9 +16,9 @@ git clone https://github.com/darkshram/piramide/
 
 sudo cp -a piramide /usr/share/plymouth/themes/
 
-plymouth-set-default-theme piramide
+sudo plymouth-set-default-theme piramide
 
-dracut -f
+sudo dracut -f
 
 reboot
 ```
