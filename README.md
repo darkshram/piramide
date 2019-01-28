@@ -5,7 +5,7 @@ Photo the main piramid of Palenque, Mexico, by Peter Vandecaveye, available is u
 
 https://pixabay.com/es/mexico-ruina-maya-cultura-853048/
 
-# Installation.
+## Installation.
 
 This theme requires plymouth-plugin-script. Please install it first with **pkcon** (works in any distro) yum (CentOS7/RHEL7), dnf (Fedora) or apt-get (Debian, Devuan, Ubuntu, Linuxmint, etc.).
 
@@ -27,3 +27,6 @@ sudo dracut -f
 
 reboot
 ```
+## How does it look like?
+
+![image](./preview.png)
